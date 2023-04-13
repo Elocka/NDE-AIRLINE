@@ -1,0 +1,14 @@
+
+
+directeur email: guiakamaudrey3@gmail.com
+password :12345678
+
+
+
+chef agence: guiakamaudrey8@gmail.com
+password :12345678
+
+
+
+employer :user@gmail.com
+password 12345678
